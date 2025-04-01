@@ -18,8 +18,8 @@ um simples sistema de folha de pagamento desenvolvido em c# utilizando windows f
   <img src="https://images.icon-icons.com/3766/PNG/512/pin_pushpin_icon_231378.png" width="32" height="32"/> tecnologias utilizadas
 </p>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="128" height="128" "C#"/>
+<p align="left" margin="5px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="128" height="128"/> <br>"C#"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="128" height="128" ".net"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="128" height="128" "Visual Studio"/>
 </p>
