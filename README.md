@@ -14,7 +14,8 @@ um simples sistema de folha de pagamento desenvolvido em c# utilizando windows f
 - .net framework  
 
 ## 📷 imagem do sistema
-(adicione aqui a imagem do sistema)
+![image](https://github.com/user-attachments/assets/add470ea-137c-48af-ae66-bfdf08293ed0)
+
 
 ## 🚀 como executar o projeto
 1. clone o repositório:  
