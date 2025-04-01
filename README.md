@@ -14,14 +14,23 @@ um simples sistema de folha de pagamento desenvolvido em c# utilizando windows f
 
 ---
 
-## <p align="center">
-  <img src="https://images.icon-icons.com/3766/PNG/512/pin_pushpin_icon_231378.png" width="32" height="32"/> tecnologias utilizadas
-</p>
-
-<p align="left" margin="5px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="128" height="128"/> <br>"C#"
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="128" height="128" ".net"/> <br>".net
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="128" height="128" "Visual Studio"/> <br>"Visual Studio"
+p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/csharp_icon_168717.png" width="100">
+        <br><strong>C#</strong>
+      </td>
+      <td align="center">
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png" width="100">
+        <br><strong>.NET</strong>
+      </td>
+      <td align="center">
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/visual_studio_icon_130693.png" width="100">
+        <br><strong>Visual Studio</strong>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
