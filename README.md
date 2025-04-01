@@ -9,8 +9,9 @@ um simples sistema de folha de pagamento desenvolvido em c# utilizando windows f
 - botões para calcular e limpar os campos.
 
 ## 🔧 tecnologias utilizadas
-- windows forms  
-- .net framework  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 
 ## 📷 imagem do sistema
 ![image](https://github.com/user-attachments/assets/add470ea-137c-48af-ae66-bfdf08293ed0)
