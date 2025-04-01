@@ -1,6 +1,8 @@
 # folha de pagamento
 
-## <img src="https://images.icon-icons.com/3766/PNG/512/pin_pushpin_icon_231378.png" width="32" height="32"/> funcionalidades
+## <p align="center">
+  <img src="https://images.icon-icons.com/3766/PNG/512/pin_pushpin_icon_231378.png" width="32" height="32"/> funcionalidades
+</p>
 
 um simples sistema de folha de pagamento desenvolvido em c# utilizando windows forms.  
 
@@ -12,27 +14,29 @@ um simples sistema de folha de pagamento desenvolvido em c# utilizando windows f
 
 ---
 
-## <img src="https://images.icon-icons.com/3766/PNG/512/pin_pushpin_icon_231378.png" width="32" height="32"/> tecnologias utilizadas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="32" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="32" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="32" height="32"/>
+## <p align="center">
+  <img src="https://images.icon-icons.com/3766/PNG/512/pin_pushpin_icon_231378.png" width="32" height="32"/> tecnologias utilizadas
 </p>
 
-- **c#**
-- **.net framework**
-- **visual studio**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="128" height="128" "C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="128" height="128" ".net"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="128" height="128" "Visual Studio"/>
+</p>
 
 ---
 
-## <img src="https://images.icon-icons.com/3766/PNG/512/pin_pushpin_icon_231378.png" width="32" height="32"/> imagem do sistema
+## <p align="center">
+  <img src="https://images.icon-icons.com/3766/PNG/512/pin_pushpin_icon_231378.png" width="32" height="32"/> imagem do sistema
+</p>
 
 ![image](https://github.com/user-attachments/assets/add470ea-137c-48af-ae66-bfdf08293ed0)
 
 ---
 
-## <img src="https://images.icon-icons.com/3766/PNG/512/pin_pushpin_icon_231378.png" width="32" height="32"/> como executar o projeto
+## <p align="center">
+  <img src="https://images.icon-icons.com/3766/PNG/512/pin_pushpin_icon_231378.png" width="32" height="32"/> como executar o projeto
+</p>
 
 1. **clone o repositório:**  
    ```bash
