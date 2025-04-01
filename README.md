@@ -9,7 +9,6 @@ um simples sistema de folha de pagamento desenvolvido em c# utilizando windows f
 - botões para calcular e limpar os campos.
 
 ## 🔧 tecnologias utilizadas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
 - windows forms  
 - .net framework  
 
