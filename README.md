@@ -20,8 +20,8 @@ um simples sistema de folha de pagamento desenvolvido em c# utilizando windows f
 
 <p align="left" margin="5px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="128" height="128"/> <br>"C#"
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="128" height="128" ".net"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="128" height="128" "Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="128" height="128" ".net"/> <br>".net
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="128" height="128" "Visual Studio"/> <br>"Visual Studio"
 </p>
 
 ---
