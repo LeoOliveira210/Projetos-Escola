@@ -4,9 +4,7 @@
   <img src="https://images.icon-icons.com/3766/PNG/512/pin_pushpin_icon_231378.png" width="32" height="32"/> funcionalidades
 </p>
 
-um simples sistema de folha de pagamento desenvolvido em c# utilizando windows forms.  
-
-### funcionalidades:
+um simples sistema de folha de pagamento desenvolvido em c# utilizando windows forms com as seguintes funcionalidades
 - cálculo do **salário bruto** com base no número de horas trabalhadas e valor da hora;
 - aplicação de **descontos** como inss, imposto de renda, fgts e vale-transporte;
 - exibição do **total de descontos** e **salário líquido**;
