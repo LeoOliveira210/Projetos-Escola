@@ -1,7 +1,7 @@
 # folha de pagamento
 
 ## <p align="center">
-  <img src="https://images.icon-icons.com/3766/PNG/512/pin_pushpin_icon_231378.png" width="32" height="32"/> funcionalidades
+  <img src="https://images.icon-icons.com/3766/PNG/512/pin_pushpin_icon_231378.png" width="32" height="32"/>  <b funcionalidades/>
 </p>
 
 um simples sistema de folha de pagamento desenvolvido em c# utilizando windows forms com as seguintes funcionalidades
